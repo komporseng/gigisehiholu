@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gigisehiholu.netlify.app/sitemap.xml
